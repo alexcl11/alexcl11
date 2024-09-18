@@ -6,7 +6,6 @@ Soy un desarrollador con conocimientos en **HTML/CSS**, **Java**, **JavaScript**
 
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis habilidades en desarrollo web.
 - 💬 Pregúntame sobre **HTML/CSS**, **Java**, **JavaScript** y **MySQL**.
-- 📫 Puedes contactarme en aleecanovaslopez@gmail.com.
 - 🌍 Tengo un nivel **B2 en inglés**.
 
 ## Habilidades
