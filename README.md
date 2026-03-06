@@ -1,54 +1,63 @@
 # ¡Hola! 👋 Soy Alejandro Cánovas
 
-**Desarrollador Full-Stack en formación | Estudiante de Máster en Desarrollo FullStack + Cloud**
+**Full Stack & Cloud Developer | Microsoft & AWS Certified Associate**
 
-Actualmente, estoy cursando mis estudios en **Colegio Tajamar**.
+Desarrollador enfocado en construir aplicaciones escalables y eficientes. Mi valor diferencial reside en la capacidad de hibridar el desarrollo tradicional (.NET/Java) con la agilidad de las plataformas Low-Code (Power Platform) y la robustez de la nube.
 
 ---
 
 ## 🚀 Sobre Mí
 
-Soy un apasionado del desarrollo web con experiencia en el ciclo de vida completo de las aplicaciones. Me enfoco en la creación de soluciones eficientes, escalables y con una excelente experiencia de usuario.
+Soy un perfil técnico proactivo con una sólida base académica y experiencia en el ciclo de vida completo del software. Mi enfoque no es solo que el código funcione, sino que sea **seguro, mantenible y escalable**.
 
-* 🌱 **Aprendizaje Continuo:** Actualmente, estoy profundizando mis conocimientos en **tecnologías Cloud (AWS, Azure)** y explorando nuevas tendencias de desarrollo web.
-* 🎓 **Formación Sólida:** Combino mi Máster en FullStack + Cloud con una base técnica previa en Desarrollo de Aplicaciones Web.
-* 🌍 **Idiomas:** Cuento con un nivel **B2 de inglés**.
+* 💡 **Filosofía de trabajo:** Resolución analítica de problemas y mentalidad de aprendizaje continuo.
+* 🎖️ **Certificaciones:** AWS Developer Associate, Azure Developer Associate y Power Platform Developer Associate.
+* 🛠️ **Soft Skills:** Disciplina, capacidad de trabajo bajo presión y orientación al cliente (desarrolladas en entornos de alta responsabilidad como el socorrismo y la hostelería).
+* 🌍 **Idiomas:** Inglés B2 (Competencia técnica y profesional).
 
 ---
 
-## 🛠️ Stack de Habilidades
+## 🎖️ Certificaciones Oficiales
 
-| Categoría | Tecnologías y Herramientas |
+| Proveedor | Certificación | Nivel |
+| :--- | :--- | :--- |
+| **Microsoft** | Power Platform Developer Associate (PL-400) | Associate |
+| **Microsoft** | Azure Developer Associate (AZ-204) | Associate |
+| **AWS** | Certified Developer Associate (DVA-C02) | Associate |
+
+---
+
+## 🛠️ Stack Tecnológico
+
+| Categoría | Tecnologías |
 | :--- | :--- |
-| **Frontend** | HTML, CSS, Angular, React, Vue, jQuery, Bootstrap |
-| **Backend** | PHP, Java, C# |
-| **Bases de Datos** | MySQL |
-| **Cloud & DevOps** | AWS, Azure |
+| **Backend** | C# (.NET Core/ASP.NET), Java, Python, PHP |
+| **Frontend** | Angular, React, Vue.js, jQuery, Bootstrap |
+| **Cloud & DevOps** | AWS, Azure, Git, CI/CD |
+| **Bases de Datos** | SQL Server, MySQL, Oracle |
+| **Low-Code** | Microsoft Power Platform (Power Apps & Automate) |
 
 ---
 
-## 📚 Educación
+## 📈 Proyectos Destacados
 
-* **Colegio Tajamar**
-    * Máster en Desarrollo FullStack + Cloud (En curso)
-* **IES Infanta Elena**
-    * Ciclo Formativo de Grado Superior (C.F.G.S.) en Desarrollo de Aplicaciones Web (DAW)
+* **[La Redonda](https://github.com/alexcl11/LaRedonda):** Desarrollo integral de una plataforma web gestionada con Scrum.
+* **Proyectos .NET & Java:** Explora mis repositorios para ver implementaciones de arquitecturas MVC y Web APIs.
 
 ---
 
 ## 🔗 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-c%C3%A1novas-l%C3%B3pez-026b62390/)
-
-¡Siempre estoy abierto a colaborar en proyectos interesantes!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-canovas/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro.canovaslopez1@gmail.com)
 
 ---
 
-### ⚙️ Herramientas Destacadas
+### ⚙️ Ecosistema Principal
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Power Platform](https://img.shields.io/badge/Power_Platform-0078D4?style=for-the-badge&logo=microsoft-power-platform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
